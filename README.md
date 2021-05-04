@@ -1,6 +1,6 @@
 # REACT JS FORM
 
-![Img](https://github.com/luisjeremias/react-form/blob/master/capture.JPG?raw=true)
+![Img](https://github.com/luisjeremias/React-Form/blob/master/capture.JPG?raw=true)
 this is a react js form to sign up 
  
 ### HOW INSTALL?
