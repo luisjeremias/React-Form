@@ -11,8 +11,10 @@ You can install this project downloading the zip or type in your terminal or pro
 you need to have git on your computer!
 
 after open the project on terminal and type 
-
->npm install
-
->npm start
+```
+ npm install
+```
+```
+ npm start
+```
 
